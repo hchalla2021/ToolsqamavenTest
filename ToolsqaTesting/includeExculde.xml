@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Sample Test Suite" verbose="1" >
+  <test name="Method Test Cases" >
+    <classes>
+       <class name="Toolsqa.ToolsqaTesting.TestNgAnnatation">
+        <methods>
+        <include name="Testt1" />
+        <include name="Testt2" />
+        <include name="Testt3" />
+      </methods>
+       </class>
+    </classes>
+  </test>
+</suite>

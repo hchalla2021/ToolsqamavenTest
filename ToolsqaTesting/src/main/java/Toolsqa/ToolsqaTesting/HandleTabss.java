@@ -16,7 +16,7 @@ import org.testng.annotations.Test;
 
 public class HandleTabss {
 
-	public static String name = "Selenium1";
+	public static String name = "Selenium2021";
 	
 	public static WebDriver driver;
 	
